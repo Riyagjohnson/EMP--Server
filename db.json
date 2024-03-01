@@ -1,0 +1,115 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "email": "admin@demoapp.com",
+      "password": "demoapp123",
+      "name": "Admin  user"
+    },
+    {
+      "id": "3517",
+      "empId": "EMP100",
+      "name": "roney",
+      "email": "kevinroy3219@gmail.com",
+      "status": "1"
+    },
+    {
+      "id": "9b72",
+      "email": "lucio_hettinger@annie.ca",
+      "empId": "EMP108",
+      "name": "lucio",
+      "status": "1"
+    },
+    {
+      "id": "22ba",
+      "email": "lucio_hettinger@annie.ca",
+      "empId": "EMP108",
+      "name": "lucio",
+      "status": "0"
+    },
+    {
+      "id": "251a",
+      "email": "johnson2019@gmail.com",
+      "empId": "EMP104",
+      "name": "johnson",
+      "status": "1"
+    },
+    {
+      "id": "973f",
+      "email": "johnson2019@gmail.com",
+      "empId": "EMP104",
+      "name": "johnson",
+      "status": "0"
+    },
+    {
+      "id": "78e6",
+      "email": "alicejohnson1@gmail.com",
+      "empId": "EMP105",
+      "name": "rom",
+      "status": "0"
+    },
+    {
+      "id": "7e59",
+      "email": "alicejohnson1@gmail.com",
+      "empId": "EMP105",
+      "name": "rom",
+      "status": "0"
+    },
+    {
+      "id": "1ba6",
+      "email": "riii@gmail.com",
+      "empId": "EMP106",
+      "name": "REE",
+      "status": "1"
+    },
+    {
+      "id": "a27a",
+      "email": "geo@gmail.com",
+      "empId": "EMP107",
+      "name": "geo",
+      "status": "1"
+    },
+    {
+      "id": "e41a",
+      "email": "geo@gmail.com",
+      "empId": "EMP107",
+      "name": "geo",
+      "status": "1"
+    },
+    {
+      "id": "01d0",
+      "email": "kevin@gmail.com",
+      "empId": "EMP108",
+      "name": "Kevin",
+      "status": "1"
+    },
+    {
+      "id": "5107",
+      "email": "kevin@gmail.com",
+      "empId": "EMP108",
+      "name": "Kevin",
+      "status": "1"
+    },
+    {
+      "id": "779b",
+      "email": "rooney@gmail.com",
+      "empId": "EMP109",
+      "name": "rooney",
+      "status": "1"
+    },
+    {
+      "id": "1b84",
+      "email": "rooney@gmail.com",
+      "empId": "EMP109",
+      "name": "rooney",
+      "status": "1"
+    },
+    {
+      "id": "9c9d",
+      "empId": "EMP100",
+      "name": "joe",
+      "email": "riyajohnson275@gmail.com",
+      "status": "0"
+    }
+  ]
+}
